@@ -23,7 +23,7 @@ Estudante de **Segurança da Informação** e apaixonado por tecnologia. Atualme
 ---
 
 ### 📈 Estatísticas do GitHub
-![github.com/Rubertt12](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
+![github.com/Rubertt12 ](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical)
 ![Javascript](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical)
 
 ---
